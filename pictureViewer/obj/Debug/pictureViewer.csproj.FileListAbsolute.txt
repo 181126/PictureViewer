@@ -1,0 +1,11 @@
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\bin\Debug\pictureViewer.exe.config
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\bin\Debug\pictureViewer.exe
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\bin\Debug\pictureViewer.pdb
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.AssemblyReference.cache
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.Form1.resources
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.Properties.Resources.resources
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.GenerateResource.cache
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.exe
+C:\Users\leide\OneDrive\Documentos\códigos\pictureViewer\pictureViewer\obj\Debug\pictureViewer.pdb
